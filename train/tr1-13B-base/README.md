@@ -1,5 +1,5 @@
-# Train 1 - 13B - unmodified Megatron gpt2 - baseline
-# 第一个训练模型 - 13B - 未经修改的基于 Megatron 和 GPT-2 架构开发的模型 - 基准模型
+# Train 1 - 13B - unmodified Megatron gpt2 - baseline  
+第一个训练模型 - 13B - 未经修改的基于 Megatron 和 GPT-2 架构开发的模型 - 基准模型
 
 ## Task
 ## 任务
